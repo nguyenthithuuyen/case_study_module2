@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d27a12b-b48e-4ade-a62a-b3263c7bed69" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../MVC/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/app/controllers/UserController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/app/models/DBConnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/app/models/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/app/models/UserDB.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/app/view/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/router.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PDO/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/AuthController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/HomeController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/ProductController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/BaseModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/DBConnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/ProductModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/UserModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/front-end/cart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/front-end/core/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/front-end/core/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/front-end/core/navbar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/front-end/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/front-end/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/front-end/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/front-end/products/create.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/front-end/products/detail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_2/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_2/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_2/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_2/router.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_2/src/controller/AuthController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_2/src/controller/HomeController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_2/src/controller/ProductController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_2/src/model/BaseModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_2/src/model/DBConnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_2/src/model/ProductModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_2/src/model/UserModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_2/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_2/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_2/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_2/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_2/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_2/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_2/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_2/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_2/views/front-end/cart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_2/views/front-end/core/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_2/views/front-end/core/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_2/views/front-end/core/navbar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_2/views/front-end/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_2/views/front-end/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_2/views/front-end/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_2/views/front-end/products/create.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_2/views/front-end/products/detail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo.codegym/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_MVC/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_MVC/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_MVC/src/Controller/ProductController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_MVC/src/Model/DBConnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_MVC/src/Model/Product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_MVC/src/Model/ProductDB.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_MVC/src/View/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_css/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_css/images/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_css/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../website_fruit/admin/category/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../website_fruit/admin/category/ajax.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../website_fruit/admin/category/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../website_fruit/admin/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../website_fruit/admin/product/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../website_fruit/admin/product/ajax.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../website_fruit/admin/product/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../website_fruit/common/utility.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../website_fruit/db/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../website_fruit/db/dbhelper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../website_fruit/front_end/category.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../website_fruit/front_end/detail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../website_fruit/front_end/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../website_fruit/guideline.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../website_fruit/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BubbleSort" beforeDir="false" afterPath="$PROJECT_DIR$/../BubbleSort" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CheckPassword" beforeDir="false" afterPath="$PROJECT_DIR$/../CheckPassword" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Circle_Cylinder" beforeDir="false" afterPath="$PROJECT_DIR$/../Circle_Cylinder" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Colorable" beforeDir="false" afterPath="$PROJECT_DIR$/../Colorable" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemicalBinary" beforeDir="false" afterPath="$PROJECT_DIR$/../DemicalBinary" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fan" beforeDir="false" afterPath="$PROJECT_DIR$/../Fan" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FutureValueCalculator" beforeDir="false" afterPath="$PROJECT_DIR$/../FutureValueCalculator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InsertionSort" beforeDir="false" afterPath="$PROJECT_DIR$/../InsertionSort" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyList" beforeDir="false" afterPath="$PROJECT_DIR$/../MyList" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Point2D_Point3D" beforeDir="false" afterPath="$PROJECT_DIR$/../Point2D_Point3D" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Point_MoveablePoint" beforeDir="false" afterPath="$PROJECT_DIR$/../Point_MoveablePoint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queue" beforeDir="false" afterPath="$PROJECT_DIR$/../Queue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RegexPractice" beforeDir="false" afterPath="$PROJECT_DIR$/../RegexPractice" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Resizeable" beforeDir="false" afterPath="$PROJECT_DIR$/../Resizeable" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SelectionSort" beforeDir="false" afterPath="$PROJECT_DIR$/../SelectionSort" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shape" beforeDir="false" afterPath="$PROJECT_DIR$/../Shape" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StopWatch" beforeDir="false" afterPath="$PROJECT_DIR$/../StopWatch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangle_Class" beforeDir="false" afterPath="$PROJECT_DIR$/../Triangle_Class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VadidateClassRegex" beforeDir="false" afterPath="$PROJECT_DIR$/../VadidateClassRegex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VadidatePhoneNumberRegex" beforeDir="false" afterPath="$PROJECT_DIR$/../VadidatePhoneNumberRegex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ValidateAccountRegex" beforeDir="false" afterPath="$PROJECT_DIR$/../ValidateAccountRegex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ValidateEmailRegex" beforeDir="false" afterPath="$PROJECT_DIR$/../ValidateEmailRegex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../array_aggregation" beforeDir="false" afterPath="$PROJECT_DIR$/../array_aggregation" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bathople" beforeDir="false" afterPath="$PROJECT_DIR$/../bathople" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete" beforeDir="false" afterPath="$PROJECT_DIR$/../delete" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dskhachhang" beforeDir="false" afterPath="$PROJECT_DIR$/../dskhachhang" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figure" beforeDir="false" afterPath="$PROJECT_DIR$/../figure" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritance" beforeDir="false" afterPath="$PROJECT_DIR$/../inheritance" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout" beforeDir="false" afterPath="$PROJECT_DIR$/../layout" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lexicon_php" beforeDir="false" afterPath="$PROJECT_DIR$/../lexicon_php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locDSKH" beforeDir="false" afterPath="$PROJECT_DIR$/../locDSKH" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login" beforeDir="false" afterPath="$PROJECT_DIR$/../login" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maxximum" beforeDir="false" afterPath="$PROJECT_DIR$/../maxximum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../minximum" beforeDir="false" afterPath="$PROJECT_DIR$/../minximum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../money" beforeDir="false" afterPath="$PROJECT_DIR$/../money" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numbertoletters" beforeDir="false" afterPath="$PROJECT_DIR$/../numbertoletters" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack" beforeDir="false" afterPath="$PROJECT_DIR$/../stack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uyuyd/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../uyuyd/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uyuyd/Motor.php" beforeDir="false" afterPath="$PROJECT_DIR$/../uyuyd/Motor.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1ka15n8gCHYU1z82LlP49NGoQLH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../website_fruit" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d27a12b-b48e-4ade-a62a-b3263c7bed69" name="Default Changelist" comment="" />
+      <created>1605923707731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605923707731</updated>
+      <workItem from="1605923709010" duration="1681000" />
+      <workItem from="1606006483437" duration="1200000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="267" y="468" width="523" height="178" key="ComposerInitDialogKey" timestamp="1605924006244">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="267" y="468" width="523" height="178" key="ComposerInitDialogKey/72.27.1848.1053@72.27.1848.1053" timestamp="1605924006244" />
+    <state x="317" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1605928778006">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="317" y="311" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1605928778006" />
+    <state x="276" y="273" width="505" height="568" key="NewPhpClassDialog" timestamp="1605924264117">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="276" y="273" width="505" height="568" key="NewPhpClassDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1605924264117" />
+    <state x="329" y="479" width="399" height="156" key="NewPhpFileDialog" timestamp="1605924528417">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="329" y="479" width="399" height="156" key="NewPhpFileDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1605924528417" />
+  </component>
+</project>

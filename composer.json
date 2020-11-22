@@ -1,0 +1,19 @@
+{
+  "name": "vendor_name/case-study2",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "uyennguyen",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "app\\": "src/"
+    }
+  }
+}
