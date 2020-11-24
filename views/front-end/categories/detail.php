@@ -253,7 +253,7 @@
 </nav>
 <section class="jumbotron text-center">
     <div class="container">
-        <h1 class="jumbotron-heading">TRANG WEB BÁN HÀNG</h1>
+        <h1 class="jumbotron-heading">E-COMMERCE CATEGORY</h1>
         <p class="lead text-muted mb-0">Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un peintre anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte...</p>
     </div>
 </section>
@@ -262,8 +262,8 @@
         <div class="col">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                    <li class="breadcrumb-item"><a href="category.html">Category</a></li>
+                    <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                    <li class="breadcrumb-item"><a href="category.php">Category</a></li>
                     <li class="breadcrumb-item active" aria-current="page">Sub-category</li>
                 </ol>
             </nav>
@@ -281,28 +281,28 @@
                             <div class="row">
                                 <div class="col-md-5">
                                     <div class="product-details-large" id="ProductPhoto">
-                                        <img id="ProductPhotoImg" class="product-zoom" data-image-id="" alt="12. Aliexpress dropshipping by oberlo" data-zoom-image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSASZdXiAeQF-czj6CfSPjbZ9Y2OrRcKurmnw&usqp=CAU" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSASZdXiAeQF-czj6CfSPjbZ9Y2OrRcKurmnw&usqp=CAU">
-<!---->
+                                        <img id="ProductPhotoImg" class="product-zoom" data-image-id="" alt="12. Aliexpress dropshipping by oberlo" data-zoom-image="http://cdn.shopify.com/s/files/1/0067/5617/1846/products/36_1024x1024.jpg?v=1544416552" src="http://cdn.shopify.com/s/files/1/0067/5617/1846/products/36_1024x1024.jpg?v=1544416552">
+
                                     </div>
                                     <div id="ProductThumbs" class="product-thumbnail owl-carousel">
-                                        <a class="product-single__thumbnail active" href="https://kiza.vn/media/catalog/product/cache/1/image/650x/040ec09b1e35df139433887a97daa66f/g/i/giay-adidas-prophere-xanh-duong-01.jpg" data-image="" data-zoom-image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSASZdXiAeQF-czj6CfSPjbZ9Y2OrRcKurmnw&usqp=CAU" data-image-id="6995357106246">
-                                            <img src="https://kiza.vn/media/catalog/product/cache/1/image/650x/040ec09b1e35df139433887a97daa66f/g/i/giay-adidas-prophere-xanh-duong-01.jpg" alt="12. Aliexpress dropshipping by oberlo"></a>
+                                        <a class="product-single__thumbnail active" href="http://cdn.shopify.com/s/files/1/0067/5617/1846/products/36_1024x1024.jpg?v=1544416552" data-image="http://cdn.shopify.com/s/files/1/0067/5617/1846/products/36_1024x1024.jpg?v=1544416552" data-zoom-image="http://cdn.shopify.com/s/files/1/0067/5617/1846/products/36_1024x1024.jpg?v=1544416552" data-image-id="6995357106246">
+                                            <img src="http://cdn.shopify.com/s/files/1/0067/5617/1846/products/36_compact.jpg?v=1544416552" alt="12. Aliexpress dropshipping by oberlo"></a>
 
-                                        <a class="product-single__thumbnail " href="https://pilireplica.com/wp-content/uploads/2019/09/louis-vuitton-lv-archlight-sneaker-shoes-AE5U3BMI61_PM2_Front-view-247x247.jpg"
-                                           data-image="https://pilireplica.com/wp-content/uploads/2019/09/louis-vuitton-lv-archlight-sneaker-shoes-AE5U3BMI61_PM2_Front-view-247x247.jpg" data-zoom-image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSASZdXiAeQF-czj6CfSPjbZ9Y2OrRcKurmnw&usqp=CAU" data-image-id="6995358023750">
-                                            <img src="https://pilireplica.com/wp-content/uploads/2019/09/louis-vuitton-lv-archlight-sneaker-shoes-AE5U3BMI61_PM2_Front-view-247x247.jpg" alt="12. Aliexpress dropshipping by oberlo"></a>
+                                        <a class="product-single__thumbnail " href="http://cdn.shopify.com/s/files/1/0067/5617/1846/products/40_1024x1024.jpg?v=1544416552"
+                                           data-image="http://cdn.shopify.com/s/files/1/0067/5617/1846/products/40_1024x1024.jpg?v=1544416552" data-zoom-image="http://cdn.shopify.com/s/files/1/0067/5617/1846/products/40_1024x1024.jpg?v=1544416552" data-image-id="6995358023750">
+                                            <img src="http://cdn.shopify.com/s/files/1/0067/5617/1846/products/40_compact.jpg?v=1544416552" alt="12. Aliexpress dropshipping by oberlo"></a>
 
-                                        <a class="product-single__thumbnail " href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSASZdXiAeQF-czj6CfSPjbZ9Y2OrRcKurmnw&usqp=CAU"
-                                           data-image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSASZdXiAeQF-czj6CfSPjbZ9Y2OrRcKurmnw&usqp=CAU" data-zoom-image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSASZdXiAeQF-czj6CfSPjbZ9Y2OrRcKurmnw&usqp=CAU" data-image-id="6995357302854">
-                                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSASZdXiAeQF-czj6CfSPjbZ9Y2OrRcKurmnw&usqp=CAU" alt="12. Aliexpress dropshipping by oberlo"></a>
+                                        <a class="product-single__thumbnail " href="http://cdn.shopify.com/s/files/1/0067/5617/1846/products/37_1024x1024.jpg?v=1544416552"
+                                           data-image="http://cdn.shopify.com/s/files/1/0067/5617/1846/products/37_1024x1024.jpg?v=1544416552" data-zoom-image="http://cdn.shopify.com/s/files/1/0067/5617/1846/products/37_1024x1024.jpg?v=1544416552" data-image-id="6995357302854">
+                                            <img src="http://cdn.shopify.com/s/files/1/0067/5617/1846/products/37_compact.jpg?v=1544416552" alt="12. Aliexpress dropshipping by oberlo"></a>
 
-                                        <a class="product-single__thumbnail " href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSASZdXiAeQF-czj6CfSPjbZ9Y2OrRcKurmnw&usqp=CAU"
-                                           data-image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSASZdXiAeQF-czj6CfSPjbZ9Y2OrRcKurmnw&usqp=CAU" data-zoom-image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSASZdXiAeQF-czj6CfSPjbZ9Y2OrRcKurmnw&usqp=CAU" data-image-id="6995357532230">
-                                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSASZdXiAeQF-czj6CfSPjbZ9Y2OrRcKurmnw&usqp=CAU" alt="12. Aliexpress dropshipping by oberlo"></a>
+                                        <a class="product-single__thumbnail " href="http://cdn.shopify.com/s/files/1/0067/5617/1846/products/38_1024x1024.jpg?v=1544416552"
+                                           data-image="http://cdn.shopify.com/s/files/1/0067/5617/1846/products/38_1024x1024.jpg?v=1544416552" data-zoom-image="http://cdn.shopify.com/s/files/1/0067/5617/1846/products/38_1024x1024.jpg?v=1544416552" data-image-id="6995357532230">
+                                            <img src="http://cdn.shopify.com/s/files/1/0067/5617/1846/products/38_compact.jpg?v=1544416552" alt="12. Aliexpress dropshipping by oberlo"></a>
 
-                                        <a class="product-single__thumbnail " href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSASZdXiAeQF-czj6CfSPjbZ9Y2OrRcKurmnw&usqp=CAU"
-                                           data-image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSASZdXiAeQF-czj6CfSPjbZ9Y2OrRcKurmnw&usqp=CAU" data-zoom-image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSASZdXiAeQF-czj6CfSPjbZ9Y2OrRcKurmnw&usqp=CAU" data-image-id="6995357728838">
-                                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSASZdXiAeQF-czj6CfSPjbZ9Y2OrRcKurmnw&usqp=CAU" alt="12. Aliexpress dropshipping by oberlo"></a>
+                                        <a class="product-single__thumbnail " href="http://cdn.shopify.com/s/files/1/0067/5617/1846/products/39_1024x1024.jpg?v=1544416552"
+                                           data-image="http://cdn.shopify.com/s/files/1/0067/5617/1846/products/39_1024x1024.jpg?v=1544416552" data-zoom-image="http://cdn.shopify.com/s/files/1/0067/5617/1846/products/39_1024x1024.jpg?v=1544416552" data-image-id="6995357728838">
+                                            <img src="http://cdn.shopify.com/s/files/1/0067/5617/1846/products/39_compact.jpg?v=1544416552" alt="12. Aliexpress dropshipping by oberlo"></a>
 
                                     </div>
                                 </div>
@@ -311,15 +311,15 @@
                                         <form method="post" id="AddToCartForm" accept-charset="UTF-8" class="shopify-product-form" enctype="multipart/form-data">
                                             <input type="hidden" name="form_type" value="product" /><input type="hidden" name="utf8" value="✓" />
                                             <div class="product-details">
-                                                <h1 class="single-product-name"><?php echo $product['name']?></h1>
+                                                <h1 class="single-product-name"><?php echo $category['name']?></h1>
                                                 <div class="single-product-reviews">
                                                     <span class="shopify-product-reviews-badge" data-id="1912078270534"></span>
                                                 </div>
                                                 <div class="product-sku">SKU: <span class="variant-sku">YQT71020193</span></div>
                                                 <div class="single-product-price">
-                                                    <div class="product-discount"><span  class="price" id="ProductPrice"><span class=money>$ <?php echo $product['price']?></span></span></div>
+                                                    <div class="product-discount"><span  class="price" id="CategoryName"><span class=money>$ <?php echo $category['name']?></span></span></div>
                                                 </div>
-                                                <div class="product-info"></div>
+                                                <div class="product-info">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</div>
 
                                                 <div class="single-product-action">
                                                     <div class="product-variant-option">
@@ -365,6 +365,7 @@
                                                             </div>
                                                         </div>
                                                     </div>
+                                                    <div class="secure-payment"><img src="http://cdn.shopify.com/s/files/1/0067/5617/1846/files/guaranteed_safe_checkout1.png?v=1545216773"></div>
                                                 </div>
                                             </div>
                                         </form>

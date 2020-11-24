@@ -15,38 +15,51 @@ class AuthController
         $this->userModel = new UserModel();
     }
 
-    function showFormLogin() {
+    function showFormLogin()
+    {
         include_once 'views/front-end/login.php';
     }
 
-    function login($username, $password) {
+
+
+    function login($username, $password)
+    {
         $userLogin = $this->userModel->getUserByUsernameAndPassword($username, $password);
         if ($userLogin) {
-            $_SESSION["userLogin"] = $userLogin['name'];
-            header('location: index.php');
-        }else{
+            $_session["userlogin"] = $userlogin['name'];
+            if ($userLogin['name'] == 'uyen') {
+                $this->productManage();
+            } else {
+                header('location: index.php');
+            }
+        } else {
             header('location: index.php?page=login');
         }
     }
 
-    function logout($username, $password) {
-        $userLogout = $this->userModel->getUserByUsernameAndPassword($username, $password);
-        if ($userLogout) {
-            $_SESSION["userLogout"] = "";
-            header('location: index.php');
-        }
-        // xoa session co key userLogin
-        // header('location: index.php');
+    function logout()
+    {
+        $_SESSION["userLogin"] = null;
+        header('location: index.php');
     }
+    // xoa session co key userLogin
+    // header('location: index.php');
 
-    function checkLogin() {
+
+    function checkLogin()
+    {
         if ($_SESSION['userLogin'] == null) {
             header('location: index.php?page=login');
         }
     }
-    function checkLogout(){
-        if ($_SESSION['userLogout'] == null) {
-            header('location: index.php?page=logout');
-        }
+
+    function productManage()
+    {
+        header('location: index.php?page=product-manage');
     }
+    function categoryManage()
+    {
+        header('location: index.php?page=category-manage');
+    }
+
 }

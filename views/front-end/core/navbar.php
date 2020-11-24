@@ -8,13 +8,13 @@
         <div class="collapse navbar-collapse justify-content-end" id="navbarsExampleDefault">
             <ul class="navbar-nav m-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="index.html">Home</a>
+                    <a class="nav-link" href="index.php">Home</a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="category.html">Categories <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="index.php?page=categories">Categories <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="product.html">Product</a>
+                    <a class="nav-link" href="index.php?page=products">Product</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="index.php?page=cart">Cart</a>
@@ -24,6 +24,7 @@
                         <a class="nav-link" href="index.php?page=login">Login</a>
                     </li>
                 <?php else: ?>
+
                     <li class="nav-item">
                         <div class="dropdown">
                             <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -31,7 +32,7 @@
                             </button>
                             <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                                 <a class="dropdown-item" href="#">Quan ly san pham</a>
-                                <a class="dropdown-item" href="#">Logout</a>
+                                <a class="dropdown-item" href="index.php?page=logout">Logout</a>
                             </div>
                         </div>
                     </li>
